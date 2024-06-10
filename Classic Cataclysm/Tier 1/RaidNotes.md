@@ -1,13 +1,13 @@
 # Black Wing Decent
 
-Omnotrol Defense System
+## Omnotrol Defense System
 - Arcanotron Needs Arcane Annihilator to be interupted
 
-Magma
+## Magma
 
-Atramedes
+## Atramedes
 
-Chimaeron
+## Chimaeron
 
 ## Maloriak
 
@@ -30,9 +30,9 @@ Chimaeron
 - Equip Sorrowsong
 
 # Throne of the Four Winds
-- Equip Sorrowsong
 
 ## Conclave of the Wind
+- Equip Sorrowsong
 
 ## Al'Akir
 - Extended  FE

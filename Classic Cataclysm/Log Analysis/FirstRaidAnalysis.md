@@ -1,0 +1,40 @@
+## Things to Consider
+In general after looking at the logs I have for myself. [Night 1](https://classic.warcraftlogs.com/reports/bnL63RPVGjZ7CqaH) and [Night 2](https://classic.warcraftlogs.com/reports/H1Rmdj2Ggz8AqQBc) I've noticed several improvements to make. 
+
+### Observations
+1. I showed a lack of preparation for the fights and need to do more research on them. 
+1. I need to tighten up my rotation and use Chain Lightning more when there is anything worth cleaving off of. 
+2. My Flame Elemental needs to be doing more damage.  
+3. Enchants and Gear Choices have had several misses. 
+
+### 
+Major Changes
+1. I need to switch from a partial enhancement to a partial resto tree for Totemic Focus. This will increase the amount of time FE is up and give me more damage overall as well as better survivability thanks to the other talents taken. Loosing Ghost Wolf should be ok since we have LB while moving.
+
+## General Changes Made (June 9)
+1. Updated Gear - Moved off of new trinket. Will try using Sorrowsong on fights with adds as it looks like the procs are pretty good.
+2. Updated Talents - Made spec withe extended FE (Will be using this as default)
+3. Added Additional Macro for CL to make sure I'm using cds when spamming. 
+4. Added Missing Enchantment on Weapon (yikes), updated shield enchant to int.
+
+## Fight Specific
+
+### Conclave of Wind
+There isn't a lot to change here, compare me against those that are similar in ilevel and we will see similar results. 
+
+On June 9th when I looked at the logs of those in the 349 - 351 i level range DPS came in with the top ten in the 16,700 to 19,549 range vs my 14,764. Definately I could do better with my rotation but no major concerns imo.
+
+[Stevetwo](https://classic.warcraftlogs.com/reports/wH817Zg2rfXFnt9J#fight=15&type=damage-done&source=8) vs [Ramity](https://classic.warcraftlogs.com/reports/bnL63RPVGjZ7CqaH#fight=40&source=2&type=damage-done)
+
+#### Changes
+Look into if I can get FE to live longer than 1 min in this fight without changing the miniboss I'm targeting. 
+
+### Sinestra
+
+#### Changes
+1. Switch to CL spam as soon as whelps come out (if we are good from a strat perspective)
+2. CL while moving to spot with adds.
+3. Use Sorrowsong for other Trinket.
+
+### Conclave of Wind
+1. Due to our Fire Elemental (FE) getting eaten by the flower adds, Elemental shamans will never parse on this fight if they aren't on Rohash and are on Anshal instead. 
