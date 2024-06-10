@@ -13,10 +13,14 @@
 ## Maloriak
 
 ## Nef
+### Overall
 - Extended FE
+### Phase 1
 - If I get walk debuff, spam stolen power(vehicle bar) until you are almost at the portal then break free.
+### Phase 2
 - May need to interupt Chromatic Prototype(Blast Nova)
-- Swim 10 yards in lava if you get Explosive Cinders
+- If debuff and at 5 seconds left Swim 10 yards in lava if you get Explosive Cinders
+### Phase 3 
 - In phase 3 I may need to Health Pot, will need to Health Stone, and use Stone Claw Totem/Gift to help survive.
 
 # Bastion of Twilight
