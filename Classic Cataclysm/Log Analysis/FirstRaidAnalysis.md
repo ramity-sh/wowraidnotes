@@ -12,7 +12,7 @@ Major Changes
 1. I need to switch from a partial enhancement to a partial resto tree for Totemic Focus. This will increase the amount of time FE is up and give me more damage overall as well as better survivability thanks to the other talents taken. Loosing Ghost Wolf should be ok since we have LB while moving.
 
 ## General Changes Made (June 9)
-1. Updated Gear - Moved off of new trinket. Will try using Sorrowsong on fights with adds as it looks like the procs are pretty good.
+1. Updated Gear - Moved off of new trinket, [heart of ignasius](https://www.wowhead.com/cata/item=65110/heart-of-ignacious) as it is simming bad and from what I've read is not as effective as most other blue trinkets. Will try using Sorrowsong on fights with adds as it looks like the procs are pretty good.
 2. Updated Talents - Made spec withe extended FE (Will be using this as default)
 3. Added Additional Macro for CL to make sure I'm using cds when spamming. 
 4. Added Missing Enchantment on Weapon (yikes), updated shield enchant to int.
