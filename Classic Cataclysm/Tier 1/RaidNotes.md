@@ -14,7 +14,7 @@
 
 ## Nef
 ### Overall
-- Extended FE
+- Lava Burst Glyph
 ### Phase 1
 - If I get walk debuff, spam stolen power(vehicle bar) until you are almost at the portal then break free.
 ### Phase 2
@@ -35,7 +35,7 @@
 - Equip Sorrowsong
 
 ## Sinestra
-- Extended FE
+- Reduced CD FE Glyph
 - Equip Sorrowsong
 - Use Chain Lightning!
 
