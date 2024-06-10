@@ -35,4 +35,3 @@
 - Equip Sorrowsong
 
 ## Al'Akir
-- Extended  FE
