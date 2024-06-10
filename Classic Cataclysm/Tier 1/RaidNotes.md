@@ -14,6 +14,10 @@
 
 ## Nef
 - Extended FE
+- If I get walk debuff, spam stolen power(vehicle bar) until you are almost at the portal then break free.
+- May need to interupt Chromatic Prototype(Blast Nova)
+- Swim 10 yards in lava if you get Explosive Cinders
+- In phase 3 I may need to Health Pot, will need to Health Stone, and use Stone Claw Totem/Gift to help survive.
 
 # Bastion of Twilight
 
@@ -29,6 +33,7 @@
 ## Sinestra
 - Extended FE
 - Equip Sorrowsong
+- Use Chain Lightning!
 
 # Throne of the Four Winds
 
