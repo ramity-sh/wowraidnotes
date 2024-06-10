@@ -1,9 +1,10 @@
 # Black Wing Decent
 
-## Omnotrol Defense System
+## Omnotron Defense System
 - Arcanotron Needs Arcane Annihilator to be interupted
 
 ## Magma
+- Chain Lightning whenever there is more than one target. (Cast Thunderstorm on CD)
 
 ## Atramedes
 
