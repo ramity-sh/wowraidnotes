@@ -4,6 +4,11 @@
 
 2. Should I use extended FE on Al'Akir? Is that viable given how the final part of the fight goes?
 
-3. Watch video on Magma fight to see positioning tricks and confirm mechanics.
+~~3. Watch video on Magma fight to see positioning tricks and confirm mechanics.~~
+A: done and added details to notes.
 
 4. Do I have a juicy SP max at another time in the fight besides the start where I could proc my FE? I would have to give up a mid fight potion for this though and potentially delay my prepot if it came up at the start.
+
+5. For the start of Halfus what is the most efficient way to get my dragon freed and get to dpsing the boss?
+
+6. For Theralion and Valiona I'm seeing a lot of logs like [this one](https://classic.warcraftlogs.com/reports/TMy6wt1BKm84xL3N#fight=32&type=damage-done&source=16) where they are getting a lot more Lava Burst casts and procs than I am. What are they doing different?
