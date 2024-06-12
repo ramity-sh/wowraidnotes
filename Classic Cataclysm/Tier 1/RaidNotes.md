@@ -49,6 +49,27 @@
 - Stay 8 yards apart
 
 ## Ascendant Council
+- No Chain Lightning Glyph
+- No FE Spec?
+- Save FE for the final phase
+
+### Phase 1
+- Stack up, spread for Water bomb then restack (if hit by it run to melee)
+- Heart of Ice goes to Melee
+- Run out with Static Overload
+
+### Phase 2 
+- Get Levitate right away. 
+- After Quake get Grounded
+- If you have lightning rods run to the outside of the spread group
+- Kite a Frost Beacon into Flame Patch
+- Arion - Interupt Lightning Blast
+- Terrastra - Interupt Harden Skin
+
+### Phase 3
+- Be Spread out for chain lightning.
+- Stand and Blast in a small group away from boss.
+
 
 ## Cho'gall
 - Equip Sorrowsong
