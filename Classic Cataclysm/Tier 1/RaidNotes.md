@@ -1,29 +1,37 @@
 # Black Wing Decent
 
 ## Magma
+- Yes GL Glyph
+- Yes Lava Burst 
 - Watch for Parasites to kill those when needed. 
 - Chain Lightning whenever there is more than one target. (Cast Thunderstorm on CD)
 
 ## Omnotron Defense System
+- Yes CL Glyph
+- Yes Lava Burst Glyph
 - Arcanotron Needs Arcane Annihilator to be interupted
-- Do want Chain Lightning Glyph on this boss.
 - Watch for Poison bombs and adds to kill
 
 ## Chimaeron
+- Yes Lava Burst Glyph
 - Focus on your rotation and following directions to stack when you are supposed to.
 - Only time you need to worry about health is when you stack up. Debuff keeps you alive for most of the kill and at the end there is no healing. 
 
 ## Atramedes
+- Yes Lava Burst Glyph
 - Make sure you are casting even when the boss is in the air.
 
 ## Maloriak
+- Yes CL Glyph
+- Yes Lava Burst Glyph
 - Spread on Blue Vial, Stack on Red but run out with consuming flames debuff
 - Interupt arcane storm (lightnining)
 
 ## Nef
 ### Overall
-- Lava Burst Glyph
+- Yes Lava Burst
 - Switch to Tendrils Trinket
+
 ### Phase 1
 - If I get walk debuff, spam stolen power(vehicle bar) until you are almost at the portal then break free.
 ### Phase 2
@@ -35,12 +43,14 @@
 # Bastion of Twilight
 
 ## Halfus Wyrmbreaker
+- Yes Lava Burst
 - No Chain Lightning Glyph
 - Interupt Shadow Nova (Halfus should be my focus target)
 - Lots of Chain Lightning
 
 ## Theralion and Valiona
-- No Chain Lightning Glyph
+- Yes Lava Burst
+- No Chain Lightning Glyph but CL almost always
 - Try to keep Flame Shock on both bosses
 - If you get engulfing, get away from others. Then blast.
 - Stack on tail when blackout is cast for split damage.
@@ -49,8 +59,8 @@
 - Stay 8 yards apart
 
 ## Ascendant Council
+- Yes Lava Burst
 - No Chain Lightning Glyph
-- No FE Spec?
 - Save FE for the final phase
 
 ### Phase 1
@@ -72,9 +82,12 @@
 
 
 ## Cho'gall
+- Yes Chain Lightning Glyph
 - Equip Sorrowsong
+- Don't forget CL
 
 ## Sinestra
+- Yes Chain Lightning Glyph
 - Reduced CD FE Glyph
 - Equip Sorrowsong
 - Use Chain Lightning!
