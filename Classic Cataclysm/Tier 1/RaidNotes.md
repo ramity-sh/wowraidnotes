@@ -44,7 +44,7 @@
 
 ## Halfus Wyrmbreaker
 - Yes Lava Burst
-- No Chain Lightning Glyph
+- Yes Chain Lightning Glyph
 - Interupt Shadow Nova (Halfus should be my focus target)
 - Lots of Chain Lightning
 
