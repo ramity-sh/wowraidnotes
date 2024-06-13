@@ -1,16 +1,16 @@
 # Black Wing Decent
 
 ## Magma
-- Yes GL Glyph
+- No Chain Lightning Glyph
 - Yes Lava Burst 
 - Watch for Parasites to kill those when needed. 
 - Chain Lightning whenever there is more than one target. (Cast Thunderstorm on CD)
 
 ## Omnotron Defense System
-- Yes CL Glyph
+- Yes Chain Lightning Glyph
 - Yes Lava Burst Glyph
 - Arcanotron Needs Arcane Annihilator to be interupted
-- Watch for Poison bombs and adds to kill
+- Watch for Poison bombs (if they are fixated on me run)
 
 ## Chimaeron
 - Yes Lava Burst Glyph
@@ -19,13 +19,14 @@
 
 ## Atramedes
 - Yes Lava Burst Glyph
+- No Chain Lightning Glyph
 - Make sure you are casting even when the boss is in the air.
 
 ## Maloriak
-- Yes CL Glyph
+- Yes Chain Lightning Glyph
 - Yes Lava Burst Glyph
 - Spread on Blue Vial, Stack on Red but run out with consuming flames debuff
-- Interupt arcane storm (lightnining)
+- Interupt arcane storm (lightning)
 
 ## Nef
 ### Overall
@@ -44,13 +45,14 @@
 
 ## Halfus Wyrmbreaker
 - Yes Lava Burst
-- Yes Chain Lightning Glyph
+- No Chain Lightning Glyph (Whelps die too fast)
 - Interupt Shadow Nova (Halfus should be my focus target)
 - Lots of Chain Lightning
 
 ## Theralion and Valiona
 - Yes Lava Burst
 - No Chain Lightning Glyph but CL almost always
+- Valiona stay close and stack for Blackout, Theralion stay spread
 - Try to keep Flame Shock on both bosses
 - If you get engulfing, get away from others. Then blast.
 - Stack on tail when blackout is cast for split damage.
@@ -79,7 +81,6 @@
 ### Phase 3
 - Be Spread out for chain lightning.
 - Stand and Blast in a small group away from boss.
-
 
 ## Cho'gall
 - Yes Chain Lightning Glyph
