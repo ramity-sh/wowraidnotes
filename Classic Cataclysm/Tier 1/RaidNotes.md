@@ -11,6 +11,7 @@
 - Yes Lava Burst Glyph
 - Arcanotron Needs Arcane Annihilator to be interupted
 - Watch for Poison bombs (if they are fixated on me run)
+- Stay in Power Generator Fields whenever possible.
 
 ## Chimaeron
 - Yes Lava Burst Glyph
