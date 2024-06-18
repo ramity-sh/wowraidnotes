@@ -31,7 +31,6 @@
 ## Nef
 ### Overall
 - Yes Lava Burst
-- Switch to Tendrils Trinket
 
 ### Phase 1
 - If I get walk debuff, spam stolen power(vehicle bar) until you are almost at the portal then break free.
@@ -40,6 +39,7 @@
 - If debuff and at 5 seconds left Swim 10 yards in lava if you get Explosive Cinders
 ### Phase 3 
 - In phase 3 I may need to Health Pot, will need to Health Stone, and use Stone Claw Totem/Gift to help survive.
+- If you are MC'd you don't take damage from crackle.
 
 # Bastion of Twilight
 
@@ -84,7 +84,6 @@
 
 ## Cho'gall
 - Yes Chain Lightning Glyph
-- Equip Sorrowsong
 - Don't forget CL
 
 ## Sinestra
@@ -96,6 +95,6 @@
 # Throne of the Four Winds
 
 ## Conclave of the Wind
-- Equip Sorrowsong
+- Stick close to the platform jump if possible to minimize moving.
 
 ## Al'Akir
