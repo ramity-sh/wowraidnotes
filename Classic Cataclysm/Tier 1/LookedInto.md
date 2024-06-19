@@ -10,3 +10,12 @@ Just click and move right away. Not rocket science.
 
 ### Stay in pool? - Nofication on Omnitron Fight? What is this and do you actually need to?
 There is a buff pool(Power Generator) which is dropped by Arcanotron which you should stand in whenever possible.
+
+### My new Merfin WAs appear to not be working. What can I do to test and make sure they are?
+Needed to install the actual raid WAs not just the supporting ones.
+
+### Should I use extended FE on Al'Akir? Is that viable given how the final part of the fight goes?
+No, not worth it and the final phase doesn't last long enought to get a full use of him.
+
+### When do I use my 2nd Volcanic Potion on all encounters?
+Added to raid notes.

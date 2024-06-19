@@ -6,6 +6,9 @@
 - Watch for Parasites to kill those when needed. 
 - Chain Lightning whenever there is more than one target. (Cast Thunderstorm on CD)
 
+- Hero at 30%ish
+- Pot at Hero/Trinket
+
 ## Omnotron Defense System
 - Yes Chain Lightning Glyph
 - Yes Lava Burst Glyph
@@ -13,21 +16,33 @@
 - Watch for Poison bombs (if they are fixated on me run)
 - Stay in Power Generator Fields whenever possible.
 
+- Hero at start
+- Pot at Trinket Proc
+
 ## Chimaeron
 - Yes Lava Burst Glyph
 - Focus on your rotation and following directions to stack when you are supposed to.
 - Only time you need to worry about health is when you stack up. Debuff keeps you alive for most of the kill and at the end there is no healing. 
+
+- Hero at end
+- Pot at Hero/Trinket
 
 ## Atramedes
 - Yes Lava Burst Glyph
 - No Chain Lightning Glyph
 - Make sure you are casting even when the boss is in the air.
 
+- Hero at start
+- Proc at Trinket after air phase
+
 ## Maloriak
 - Yes Chain Lightning Glyph
 - Yes Lava Burst Glyph
 - Spread on Blue Vial, Stack on Red but run out with consuming flames debuff
 - Interupt arcane storm (lightning)
+
+- Hero at end
+- Pot at Hero/Trinket
 
 ## Nef
 ### Overall
@@ -50,6 +65,9 @@
 - Interupt Shadow Nova (Halfus should be my focus target)
 - Lots of Chain Lightning
 
+- Hero at end
+- Pot at hero and trinket proc
+
 ## Theralion and Valiona
 - Yes Lava Burst
 - No Chain Lightning Glyph but CL almost always
@@ -61,10 +79,16 @@
 - Avoid Flames cast on random target.
 - Stay 8 yards apart
 
+- Hero at Start
+- Pot at trinket proc.
+
 ## Ascendant Council
 - Yes Lava Burst
 - No Chain Lightning Glyph
 - Save FE for the final phase
+
+- Hero at
+- Pot at
 
 ### Phase 1
 - Stack up, spread for Water bomb then restack (if hit by it run to melee)
@@ -87,6 +111,9 @@
 - Yes Chain Lightning Glyph
 - Don't forget CL
 
+- Hero at end
+- Pot at Hero/Trinket
+
 ## Sinestra
 - Yes Chain Lightning Glyph
 - Reduced CD FE Glyph
@@ -98,4 +125,9 @@
 ## Conclave of the Wind
 - Stick close to the platform jump if possible to minimize moving.
 
+- Hero at end
+- Pot at Hero/Trinket
+
 ## Al'Akir
+- Hero at mid
+- Pot at Hero/Trinket
