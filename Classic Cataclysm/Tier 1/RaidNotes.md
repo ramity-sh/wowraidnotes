@@ -91,7 +91,7 @@
 - Pot at
 
 ### Phase 1
-- Stack up, spread for Water bomb then restack (if hit by it run to melee)
+- Stack up, spread for Water bomb then restack (if hit by it run to fire)
 - Heart of Ice goes to Melee
 - Run out with Static Overload
 
