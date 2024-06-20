@@ -39,6 +39,7 @@
 - Yes Chain Lightning Glyph
 - Yes Lava Burst Glyph
 - Spread on Blue Vial, Stack on Red but run out with consuming flames debuff
+- Watch for Bile Add DPS time
 - Interupt arcane storm (lightning)
 
 - Hero at end
@@ -85,10 +86,10 @@
 ## Ascendant Council
 - Yes Lava Burst
 - No Chain Lightning Glyph
-- Save FE for the final phase
+- FE at start
 
-- Hero at
-- Pot at
+- Hero at end
+- Pot at Hero/Trinket
 
 ### Phase 1
 - Stack up, spread for Water bomb then restack (if hit by it run to fire)
@@ -116,9 +117,12 @@
 
 ## Sinestra
 - Yes Chain Lightning Glyph
-- Reduced CD FE Glyph
-- Equip Sorrowsong
-- Use Chain Lightning!
+- FE comes after egg with your 2nd Pot
+- Be ready for moving with whelps, always be casting.
+
+- Hero at end
+- Pot at 3:30ish, whenever you get back on Sinestra then FE.
+
 
 # Throne of the Four Winds
 
