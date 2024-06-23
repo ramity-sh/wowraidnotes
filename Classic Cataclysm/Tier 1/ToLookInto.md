@@ -7,3 +7,5 @@
 1. On Maloriak when do the Vile Swills get killed so I can be ready?
 
 1. Add all things to look into from 2024-06-20 notes.
+
+1. Determine strategy for running with orbs.
