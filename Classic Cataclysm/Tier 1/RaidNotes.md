@@ -76,7 +76,7 @@
 - Valiona stay close and stack for Blackout, Theralion stay spread
 - Try to keep Flame Shock on both bosses
 - If you get engulfing, get away from others. Then blast.
-- Stack on tail when blackout is cast for split damage.
+- Stack on tail when Blackout is cast for split damage.
 - Stack on tail for Twilight Metorite unless they can immune it.
 - Avoid Flames cast on random target.
 - Stay 8 yards apart
@@ -118,9 +118,9 @@
 
 ## Sinestra
 - Yes Chain Lightning Glyph
-- FE comes after egg with your 2nd Pot
+- Damage Buff from Calen as he dies after the omlet is made.
+- FE comes (3:30) right before you start eggs dropped with your 2nd Pot
 - Hero at end
-- Pot at 3:30ish, whenever you get back on Sinestra then FE.
 
 
 # Throne of the Four Winds
