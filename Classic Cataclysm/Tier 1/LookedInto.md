@@ -19,3 +19,15 @@ No, not worth it and the final phase doesn't last long enought to get a full use
 
 ### When do I use my 2nd Volcanic Potion on all encounters?
 Added to raid notes.
+
+### On Maloriak when do the Vile Swills get killed so I can be ready?
+As soon as they are spawned.
+
+### Can I keep FE up on Ominitron Safely?
+Yes!
+
+### Make sure on fights where I don't pop my FE right after pull I am putting down my searing totem after the pull because it sometimes doesn't attack if you drop it pre-pull.
+Done.
+
+### How did [this guy](https://classic.warcraftlogs.com/reports/YD9k4CfvG3hpmjbc#fight=20&type=damage-done&source=14) get so many more CLs than [me](https://classic.warcraftlogs.com/reports/khtLzGTJpK6m2vqN#fight=27&type=damage-done&source=20).
+They stack the adherants right on top of the boss which makes it easier to CL everything. This guy saved his EM for those times where he would spam CL to hit everyone with it when this was done. 

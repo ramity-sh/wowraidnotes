@@ -33,13 +33,13 @@
 - Make sure you are casting even when the boss is in the air.
 
 - Hero at start
-- Proc at Trinket after air phase
+- 2nd Pot at Trinket after air phase
 
 ## Maloriak
 - Yes Chain Lightning Glyph
 - Yes Lava Burst Glyph
 - Spread on Blue Vial, Stack on Red but run out with consuming flames debuff
-- Watch for Bile Add DPS time
+- Watch for Vile Swills on Black/Grey Phase - Dps as soon as they are out.
 - Interupt arcane storm (lightning)
 
 - Hero at end
@@ -48,6 +48,7 @@
 ## Nef
 ### Overall
 - Yes Lava Burst
+- FE after 2nd Phase
 
 ### Phase 1
 - If I get walk debuff, spam stolen power(vehicle bar) until you are almost at the portal then break free.
@@ -118,8 +119,6 @@
 ## Sinestra
 - Yes Chain Lightning Glyph
 - FE comes after egg with your 2nd Pot
-- Be ready for moving with whelps, always be casting.
-
 - Hero at end
 - Pot at 3:30ish, whenever you get back on Sinestra then FE.
 
