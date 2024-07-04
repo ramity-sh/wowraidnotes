@@ -65,7 +65,7 @@
 - Yes Lava Burst
 - No Chain Lightning Glyph (Whelps die too fast)
 - Interupt Shadow Nova (Halfus should be my focus target)
-- Lots of Chain Lightning
+- Lots of Chain Lightning (Keep Halfus as target)
 
 - Hero at end
 - Pot at hero and trinket proc

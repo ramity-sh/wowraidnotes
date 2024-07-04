@@ -31,3 +31,15 @@ Done.
 
 ### How did [this guy](https://classic.warcraftlogs.com/reports/YD9k4CfvG3hpmjbc#fight=20&type=damage-done&source=14) get so many more CLs than [me](https://classic.warcraftlogs.com/reports/khtLzGTJpK6m2vqN#fight=27&type=damage-done&source=20).
 They stack the adherants right on top of the boss which makes it easier to CL everything. This guy saved his EM for those times where he would spam CL to hit everyone with it when this was done. 
+
+### Kifd question - On Chimaeron do we need to hold dps at the end to do the heals or when you said hold do you want to hold in place instead of spread?
+Hold DPS.
+
+### Determine strategy for running with orbs on Sinestra.
+Run to the left but loop arround so that you will be back in frontish of the boss when it ends. Don't stop casting.
+
+### Make sure FS WA is not covered by Merfin Auras
+Done
+
+### When to FE on Sinestra?
+Ideally right before eggs start with trinket/potion pop.
