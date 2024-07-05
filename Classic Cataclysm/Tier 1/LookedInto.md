@@ -43,3 +43,7 @@ Done
 
 ### When to FE on Sinestra?
 Ideally right before eggs start with trinket/potion pop.
+
+### How to tell if you are hitting the shield on Omnotron?
+Add `absorbedDamage > 0` to your log filter in raid damage and it will show. [Example](https://classic.warcraftlogs.com/reports/t6FGWZrgThKv9xaM#fight=5&type=damage-done&pins=2%24Off%24%23244F4B%24expression%24%5E2%24Off%24%23909049%24expression%24absorbedDamage%20%3E%200).
+

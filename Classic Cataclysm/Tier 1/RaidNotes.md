@@ -3,18 +3,20 @@
 ## Magma
 - No Chain Lightning Glyph
 - Yes Lava Burst 
-- Watch for Parasites to kill those when needed. 
+- Max parse I probably need to be in melee to avoid moving. 
 - Chain Lightning whenever there is more than one target. (Cast Thunderstorm on CD)
 
 - Hero at 30%ish
 - Pot at Hero/Trinket
 
 ## Omnotron Defense System
-- Yes Chain Lightning Glyph
+- No Chain Lightning Glyph
 - Yes Lava Burst Glyph
+- CL all the time to get cleave off bosses before shields start up.
 - Arcanotron Needs Arcane Annihilator to be interupted
 - Watch for Poison bombs (if they are fixated on me run)
 - Stay in Power Generator Fields whenever possible.
+- Watch FE to see if He will switch to new target.
 
 - Hero at start
 - Pot at Trinket Proc
