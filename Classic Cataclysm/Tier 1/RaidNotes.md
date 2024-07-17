@@ -64,13 +64,16 @@
 # Bastion of Twilight
 
 ## Halfus Wyrmbreaker
-- Yes Lava Burst
+- Yes Lava Burst Glyph, Lavaburst whenever it is up.
 - No Chain Lightning Glyph (Whelps die too fast)
 - Interupt Shadow Nova (Halfus should be my focus target)
 - Lots of Chain Lightning (Keep Halfus as target)
 
 - Hero at end
 - Pot at hero and trinket proc
+
+### Parsing Tips
+- We aren't going to parse well on this fight because we don't release the Slate dragon. Our overal DPS will just be low because of that.
 
 ## Theralion and Valiona
 - Yes Lava Burst
