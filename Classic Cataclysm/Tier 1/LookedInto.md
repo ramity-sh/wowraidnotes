@@ -49,3 +49,29 @@ Add `absorbedDamage > 0` to your log filter in raid damage and it will show. [Ex
 
 ### Where is reincarnation icon with number in the middle coming from? Use `/framestack` command next raid to find out.
 This seems to have solved itself. It is no longer showing up.
+
+### Others have extra dragon (Slate) going on Halfus?
+Seems to be a parse strat or maybe just alternative strat. Not going to worry about it too much since I'm making good progress but this will probably prevent my parses from going to high on this fight, the extra cleave would be huge.
+
+###  Can I reduce duplicate notifications from WA and Bigwigs like Sinestra and the possible orb aggroers? Need my UI clean so I can see things clearer and not get distracted.
+
+As far as I can tell there were no duplicate WAs or anything that was putting up notifications about possible orb aggroers. Is it possible that someone is sending notifications as a raid warning in the raid?
+
+### Do I need to [add a WA](https://wago.io/tiDA_thSU) to see if my FT is attacking? 
+
+Done, added this to my UI.
+
+### What counts for parses is changing next week. I need to adjust talents.
+   * Damage done to Twilight Whelps is removed on Sinestra
+   * Damage done to Aberrations and Prime Subjects is removed on Maloriak
+   * Only self-casted Unholy Frenzy will be allowed
+
+I should probably not take the CL glyph on Sinestra any longer as the whelps don't matter for the parse. However it would be better for the raid if I did probably. 
+
+
+### What is [Icy Reprisal](https://classic.warcraftlogs.com/reports/XyTMpPrnqCwNftKh#fight=20&type=damage-done&source=3) from [Heart of Ice](https://www.wowhead.com/cata/spell=82665/heart-of-ice#comments) and how do I get it on me?
+
+You can get this debuff by standing next to a player who gets Heart Of Ice on them.
+
+From Wowhead
+>Finally, Ignacious will apply the Heart of Ice debuff to a random player roughly every 20 seconds. Similarly to Ignacious's Burning Blood seen above, Heart of Ice deals 2k frost damage every 2 seconds, and an additional 2k fire damage with each subsequent tick for up to a minute. But it also grants the Frost Imbued buff to allies within a 10 yards radius with each tick, so you will want to pass the buff around to the whole raid as fast as possible before Dispelling it. With the Frost Imbued buff, every time you deal damage to Ignacious with any attack or ability, you inflict Icy Reprisal damage, adding 6-14k frost damage to all your attacks for the next 30 seconds.
