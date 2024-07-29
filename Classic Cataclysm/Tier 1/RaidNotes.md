@@ -122,9 +122,9 @@
 - Pot at Hero/Trinket
 
 ## Sinestra
-- Yes Chain Lightning Glyph
+- Yes Chain Lightning Glyph (Probably no if I want to parse)
 - Damage Buff from Calen as he dies after the omlet is made.
-- FE comes (3:30) right before you start eggs dropped with your 2nd Pot
+- FE comes (2:30) right after eggs dropped with your 2nd Pot
 - Hero at end
 
 
