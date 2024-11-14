@@ -21,7 +21,8 @@
 - FE on pull
 
 ## Baleroc, the Gatekeeper
-- Meetup when tethered
+- Make sure you move every crystal spawn. :(
+- Meetup when tethered (if you get debuff don't share)
 - If you need to take a debuff off someone get away from them quickly.
 - FE at start
 
@@ -31,4 +32,4 @@
 
 ## Ragnaros
 - Keep 6 yards apart
-- No CL Glpyh
+- No CL Glpyh?
