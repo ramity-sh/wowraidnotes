@@ -8,7 +8,7 @@ This is a totally fair call out. I don't know the exact metrics but feel like I 
 
 This one I need some help understanding the issue. I've died twice ever to missing the dance, once on my first time killing rag and once on Jan 1. I know last week I just got greedy and misjudged how far I needed to move to be on just the inside the safe area. 
 
-I looked through the logs of 6 total times I've killed Rag. Here's the stats on deaths, I've bolded the ones I could have prevented.
+I looked through the logs of 5 total times I've killed Rag. Here's the stats on deaths, I've bolded/italicized the ones I could have prevented.
 
 Nov 20th (My first rag)
 * Attempt 1 - Death during group wipe
