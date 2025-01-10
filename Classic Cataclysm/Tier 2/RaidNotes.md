@@ -7,15 +7,17 @@
 
 ## Ryholith
 - No Chain Lightning Glyph
+- Stay away from big Fire adds.
+- Stay away from volcanoes.
 - FE at Fire Giant Phase
 
 ## Alysrazor
 - FE on Pull
 - No Chain Lightning Glyph
 - Pick up the Feathers, 3 to fly
-- Interupt Fieroblast
+- Interupt Fireblast
 - Kill Meteor when it drops
-- Zoom in when tornados about to drop
+- Zoom in when tornados about to drop, 1.Find tornado and follow tornado, 2. when you pass another tornado, 3.turn and follow it. 4. Repeat!
 
 ## Shannox
 - No Chain Lightning Glyph
@@ -35,5 +37,6 @@
 - Dodge Leaping Flames if you can
 
 ## Ragnaros
-- Keep 6 yards apart
-- No CL Glpyh?
+- Keep 6 yards apart at start
+- Kill FE after rag starts getting ready to show his legs (rip parsing)
+- Try to time CL for killing adds.
