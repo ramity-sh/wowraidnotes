@@ -1,4 +1,7 @@
 # Firelands
+Look Into:
+* Can I easily tell how many charges I have so I can ES at 7 or 8 stacks of fulmination when 
+I have less than 7 or 8 seconds of Flame Shock left?
 
 ## Beth'tilac
 - Yes Chain Lightning Glyph
@@ -32,4 +35,4 @@
 ## Ragnaros
 - Keep 6 yards apart at start
 - Kill FE after rag starts getting ready to show his legs (rip parsing)
-- Try to time CL for killing Moleten Elementals.
+- Try to time CL for killing Molten Elementals.
