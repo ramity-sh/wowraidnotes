@@ -15,7 +15,7 @@ Hero most likely at 20% as he hits hard.
 * Use CL Glyph
 * Hero may be used for the number 
 
-### Boss ino
+### Boss info
 * Kill adds that spawn but only the one you are supposed to kill. 
 * Stack for most combiniations. 
 * Spread when called out to spread on combo 6. (pers/hs here), get close to void right before it dies after a green bolt goes out.
@@ -30,6 +30,23 @@ Hero most likely at 20% as he hits hard.
 6. Blue-Green-Purple-Yellow; Kill: Yellow
 
 ## Warlord Zon'ozz 
+
+### Boss info
+Has a main phase and a second phase.
+
+*Disrupting Shaows* - A dispellable debuff which does aoe damage when dispelled. Need to run out if you are 
+going to dispell it.
+
+*Void of the Unmaking* - Orb that does damage to those arround it. This ball is bounced between players until it hits the boss which moves him to the second phase. Looks like the mages handle bouncing the ball on 25 man.
+
+
+#### Second Phase
+Adds spawn, Need to kill them by priority.
+
+Add 1 - Tentacle (3 Priority)
+Add 2 - Eye stalk - Cast when hunched down and can be interupted (2 Priority)
+Add 3 - Flail, looks like worm - (1 Priority) -  Someone must be in melee range of these or they do big damage to the raid.
+
 
 ## Hagara the Stormbinder 
 
