@@ -46,9 +46,13 @@ going to dispell it.
 #### Second Phase
 Adds spawn, Need to kill them by priority.
 
-Add 1 - Tentacle (3 Priority)
-Add 2 - Eye stalk - Cast when hunched down and can be interupted (2 Priority)
-Add 3 - Flail, looks like worm - (1 Priority) -  Someone must be in melee range of these or they do big damage to the raid.
+1. Flail, looks like worm - (1 Priority) -  Someone must be in melee range of these or they do big damage to the raid.
+![Flail](Flail.jpg)
+
+2. Eye stalk - Cast when hunched down and can be interupted (2 Priority)
+![Eye Stalk](eyestalk.png)
+
+3. Tentacle (3 Priority) - No picture but these just look like regular tentacles.
 
 ## Hagara the Stormbinder 
 [Link to video](https://www.youtube.com/watch?v=JnK2DrU8gQg)
@@ -66,11 +70,9 @@ Occurs once per main phase. You get a blue triangle on your head and after 10 se
 #### Lightning Phase
 Lightning conductors are spawned. After the first one is taken down you try to create a chain of players (10 yards apart) to transfer the charge to the other conductors.
 
-**Conductor - Part 1**
-![Conductor first part](HagaraConductorsFirstPart.png)
+**Conductors**
+![Lightning Conductors](HagaraConductors.jpg)
 
-**Conductor - Part 2**
-![Conductor second part](HagaraConductorsSecondPart.png)
 
 There are storm pillars which will spawn but damage can be healed through from this. 
 
