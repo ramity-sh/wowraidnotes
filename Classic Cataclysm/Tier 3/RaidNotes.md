@@ -1,8 +1,9 @@
 # Dragon Soul 
 
 ## Morchok / Kochrom
-Hero most likely at 20% as he hits hard.
 [Link to video](https://www.youtube.com/watch?v=FjxXU-Jndas)
+
+Hero most likely at 20% as he hits hard.
 
 ### Phase 1
 * Two boses with equal mechanics in this fight.
