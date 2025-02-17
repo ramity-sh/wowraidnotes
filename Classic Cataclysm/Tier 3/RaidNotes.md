@@ -47,10 +47,13 @@ going to dispell it.
 Adds spawn, Need to kill them by priority.
 
 1. Flail, looks like worm - (1 Priority) -  Someone must be in melee range of these or they do big damage to the raid.
+
 ![Flail](Flail.jpg)
 
 2. Eye stalk - Cast when hunched down and can be interupted (2 Priority)
+
 ![Eye Stalk](eyestalk.png)
+
 
 3. Tentacle (3 Priority) - No picture but these just look like regular tentacles.
 
