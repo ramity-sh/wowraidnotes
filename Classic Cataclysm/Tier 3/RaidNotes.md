@@ -3,7 +3,8 @@
 ## Morchok / Kochrom
 [Link to video](https://www.youtube.com/watch?v=FjxXU-Jndas)
 
-Hero most likely at 20% as he hits hard.
+* No CL Glyph
+* Hero most likely at 20% as he hits hard.
 
 ### Phase 1
 * Two boses with equal mechanics in this fight.
@@ -11,12 +12,13 @@ Hero most likely at 20% as he hits hard.
 * Boss throws out crystal which will target 7 closest players shooting damage toward them. There are three tiers of damage depending on how close you are to the crystal. Players should rush to the crystal then change from Red(too close) to Blue(far enough away to be in range but not dieing from the crystal).
 
 ### Phase 3
-* Bosses such players in and then throw a bunch of spikes out. Get behind spikes to avoid the "Black Blood" the boss puts out.
+* Bosses such players in and then throw a bunch of spikes out. You can move underground after he sucks you under. Get behind spikes to avoid the "Black Blood" the boss puts out.
 
 ## Yor'sahj the Unsleeping 
 [Link to video](https://www.youtube.com/watch?v=xJsMJ1_1bzk&t=881s)
 
 * Use CL Glyph
+* No knock back on Thunderstorm
 * Hero may be used for the number 4 combo.
 
 ### Boss info
@@ -94,19 +96,28 @@ One phase fight. NPCs give buffs, healers will probably be assigned specific buf
 
 Start stacked in front of the boss. Everyone gets extra button which will transport you out of the Twilight Realm where you are fighting the boss. When *Hour of Twilight* is cast you should click the button unless you are assigned to soak. (Will probably have rotating groups to handle this)
 
+### Macro for Hour of Twilight
+If you want to use a macro instead of dragging the spell to your bars you can use:
+
+`/click ExtraActionButton1`
+
 6 min dps check due to enrage. 
 
 ## Warmaster Blackhorn 
 [Video Link](https://www.youtube.com/watch?v=YOGnVG1pHL4) - This video is old and pretty bad. Hopefully someone uploads a better video soon. 
 
+* Use FE on Phase 2, No Earth Ele this fight!
+
+Avoid the fire which are spawned as the fight starts and continually after that.. 
+
 Two phase fight. 
 
 Phase 1 add control.
 Phase 2 burn phase.
-### Phase 1 
-aAoid the fire which are spawned as the fight starts and continually after that.. 
 
-You will need to soak *Twilight Barage* from the drakes but there is a debuff so you need to rotate with another player. I assume these will be assigned.
+### Phase 1 
+
+As DPS you should be on either `Square`, `Triangle` or the big soak. You rotate starting on square or triangle, going to the soaks when you need to then switching to the other marker you weren't on and switching to the other drake. Markers are not absolute truth you just need to be behind melee.
 
 *Twilight Enslaught* - should stack and use a raid cd during these. 
 
@@ -120,4 +131,7 @@ Haven't found much on this fight yet but seems low mechanics for DPS.
 Adds fight. Kill the adds as called out and don't fall off by making sure you are grasped when necessary.
 
 ## Madness of Deathwing 
-Haven't found much on this fight yet, will keep looking.
+
+There is an extra button on this fight as well on a 30 second cd. Use the same macro above to activate it.
+
+
