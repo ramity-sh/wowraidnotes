@@ -92,7 +92,9 @@ Avoid the watery entrenchment in the center of the room. 4 crystals are spawned 
 ## Ultraxion 
 [Link to video](https://youtu.be/gs1B1gvBIqQ?si=ZZXuCWSa__b0JPwz)
 
-One phase fight. NPCs give buffs, healers will probably be assigned specific buffs to specific people.
+* Use extra 4% lightning bolt instead of movement for this fight.
+
+One phase fight. NPCs give buffs, healers will be assigned specific buffs to specific people.
 
 Start stacked in front of the boss. Everyone gets extra button which will transport you out of the Twilight Realm where you are fighting the boss. When *Hour of Twilight* is cast you should click the button unless you are assigned to soak. (Will probably have rotating groups to handle this)
 
