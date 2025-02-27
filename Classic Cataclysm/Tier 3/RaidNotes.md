@@ -3,7 +3,7 @@
 ## Morchok / Kochrom
 [Link to video](https://www.youtube.com/watch?v=FjxXU-Jndas)
 
-* No CL Glyph
+* No CL Glyph, be liberal with the CLs
 * Hero most likely at 20% as he hits hard.
 
 ### Phase 1
@@ -12,7 +12,7 @@
 * Boss throws out crystal which will target 7 closest players shooting damage toward them. There are three tiers of damage depending on how close you are to the crystal. Players should rush to the crystal then change from Red(too close) to Blue(far enough away to be in range but not dieing from the crystal).
 
 ### Phase 3
-* Bosses such players in and then throw a bunch of spikes out. You can move underground after he sucks you under. Get behind spikes to avoid the "Black Blood" the boss puts out.
+* Bosses such players in and then throw a bunch of spikes out. You can move underground after he sucks you under. Get behind spikes to avoid the "Black Blood" the boss puts out. Keep casting during this.
 
 ## Yor'sahj the Unsleeping 
 [Link to video](https://www.youtube.com/watch?v=xJsMJ1_1bzk&t=881s)
@@ -42,12 +42,13 @@
 Has a main phase and a second phase.
 
 *Disrupting Shaows* - A dispellable debuff which does aoe damage when dispelled. Need to run out if you are 
-going to dispell it.
+going to dispell it. (We heal through it.)
 
 *Void of the Unmaking* - Orb that does damage to those arround it. This ball is bounced between players until it hits the boss which moves him to the second phase. Looks like the mages handle bouncing the ball on 25 man.
 
 #### Second Phase
-Adds spawn, Need to kill them by priority.
+Adds spawn, Need to kill them by priority. We will all have an area to go to and you should follow the 
+assignment sheet to know your place. Though the adds have a priority the key is to get all the adds down asap.
 
 1. Flail, looks like worm - (1 Priority) -  Someone must be in melee range of these or they do big damage to the raid.
 
@@ -71,10 +72,12 @@ Start by spreading out. 3 blue balls are spawned and shoot ice lances which are 
 A random hit at a person, also splashes.
 
 *Ice Tomb*
-Occurs once per main phase. You get a blue triangle on your head and after 10 seconds you get turned into an ice block. You should run to agara and stand under her to get your ice block cleaved down.
+Occurs once per main phase. You get a blue triangle on your head and after 10 seconds you get turned into an ice block. 
+You should run to Agara and stand under her to get your ice block cleaved down.
 
 #### Lightning Phase
-Lightning conductors are spawned. After the first one is taken down you try to create a chain of players (10 yards apart) to transfer the charge to the other conductors.
+Lightning conductors are spawned. After the first one is taken down you try to create a chain of players (10 yards apart) to transfer the charge to the other conductors. Check the assignment sheet
+as each person has a location to stand in so the chain will be complete. (It goes off when the add dies)
 
 **Conductors**
 ![Lightning Conductors](HagaraConductors.jpg)
