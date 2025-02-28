@@ -1,5 +1,5 @@
 # Dragon Soul 
-To fix the "green" issue which sometimes happens when you enter the raid first leave the instance then run:
+To fix the "green fog" issue which sometimes happens when you enter the raid first leave the instance then run:
 ```
 /console set weatherdensity 0
 /console set raidweatherdensity 0
@@ -126,6 +126,8 @@ If you want to use a macro instead of dragging the spell to your bars you can us
 [Video Link](https://www.youtube.com/watch?v=UYAV2ec-Clo)
 
 * Use FE on Phase 2, No Earth Ele this fight!
+* No CL? Not enough adds at once.
+* Watch for purple swirl!!!!
 
 Avoid the fire which are spawned as the fight starts and continually after that.. 
 
@@ -152,5 +154,3 @@ Adds fight. Kill the adds as called out and don't fall off by making sure you ar
 ## Madness of Deathwing 
 
 There is an extra button on this fight as well on a 30 second cd. Use the same macro above to activate it.
-
-
