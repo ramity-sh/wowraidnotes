@@ -1,9 +1,15 @@
 # Dragon Soul 
+To fix the "green" issue which sometimes happens when you enter the raid first leave the instance then run:
+```
+/console set weatherdensity 0
+/console set raidweatherdensity 0
+```
 
 ## Morchok / Kochrom
 [Link to video](https://www.youtube.com/watch?v=FjxXU-Jndas)
 
 * No CL Glyph, be liberal with the CLs
+* Can use Earth Elemental
 * Hero most likely at 20% as he hits hard.
 
 ### Phase 1
@@ -18,6 +24,7 @@
 [Link to video](https://www.youtube.com/watch?v=xJsMJ1_1bzk&t=881s)
 
 * Use CL Glyph
+* No Earth Elemental
 * No knock back on Thunderstorm
 * Hero may be used for the number 4 combo.
 
@@ -39,6 +46,8 @@
 [Link to video](https://youtu.be/MCNkhM8mhVk?si=VE6F9ZmTTQK3fFjP)
 
 ### Boss info
+* Can use Earth Elemental
+
 Has a main phase and a second phase.
 
 *Disrupting Shaows* - A dispellable debuff which does aoe damage when dispelled. Need to run out if you are 
@@ -63,6 +72,10 @@ assignment sheet to know your place. Though the adds have a priority the key is 
 
 ## Hagara the Stormbinder 
 [Link to video](https://www.youtube.com/watch?v=JnK2DrU8gQg)
+
+* Can use Earth Elemental
+* Where do I stand for ice phase?
+
 ### Boss Info
 
 #### Main Phase
@@ -96,10 +109,11 @@ Avoid the watery entrenchment in the center of the room. 4 crystals are spawned 
 [Link to video](https://youtu.be/gs1B1gvBIqQ?si=ZZXuCWSa__b0JPwz)
 
 * Use extra 4% lightning bolt instead of movement for this fight.
+* Can use Earth Elemental
 
 One phase fight. NPCs give buffs, healers will be assigned specific buffs to specific people.
 
-Start stacked in front of the boss. Everyone gets extra button which will transport you out of the Twilight Realm where you are fighting the boss. When *Hour of Twilight* is cast you should click the button unless you are assigned to soak. (Will probably have rotating groups to handle this)
+Start stacked in front of the boss. Everyone gets extra button which will transport you out of the Twilight Realm where you are fighting the boss. When *Hour of Twilight* is cast you should click the button unless you are assigned to soak. Rotating Groups handle this.  
 
 ### Macro for Hour of Twilight
 If you want to use a macro instead of dragging the spell to your bars you can use:
@@ -109,7 +123,7 @@ If you want to use a macro instead of dragging the spell to your bars you can us
 6 min dps check due to enrage. 
 
 ## Warmaster Blackhorn 
-[Video Link](https://www.youtube.com/watch?v=YOGnVG1pHL4) - This video is old and pretty bad. Hopefully someone uploads a better video soon. 
+[Video Link](https://www.youtube.com/watch?v=UYAV2ec-Clo)
 
 * Use FE on Phase 2, No Earth Ele this fight!
 
