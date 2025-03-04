@@ -1,3 +1,6 @@
+# To Do
+* Get Pet that can interupt.
+* 
 # Dragon Soul 
 To fix the "green fog" issue which sometimes happens when you enter the raid first leave the instance then run:
 ```
@@ -8,8 +11,6 @@ To fix the "green fog" issue which sometimes happens when you enter the raid fir
 ## Morchok / Kochrom
 [Link to video](https://www.youtube.com/watch?v=FjxXU-Jndas)
 
-* No CL Glyph, be liberal with the CLs
-* Can use Earth Elemental
 * Hero most likely at 20% as he hits hard.
 
 ### Phase 1
@@ -23,12 +24,10 @@ To fix the "green fog" issue which sometimes happens when you enter the raid fir
 ## Yor'sahj the Unsleeping 
 [Link to video](https://www.youtube.com/watch?v=xJsMJ1_1bzk&t=881s)
 
-* Use CL Glyph
-* No Earth Elemental
-* No knock back on Thunderstorm
 * Hero may be used for the number 4 combo.
 
 ### Boss info
+
 * Kill adds that spawn but only the one you are supposed to kill. 
 * Stack for most combiniations. 
 * Spread when called out to spread on combo 6. (pers/hs here), get close to void right before it dies after a green bolt goes out.
@@ -108,8 +107,6 @@ Avoid the watery entrenchment in the center of the room. 4 crystals are spawned 
 ## Ultraxion 
 [Link to video](https://youtu.be/gs1B1gvBIqQ?si=ZZXuCWSa__b0JPwz)
 
-* Use extra 4% lightning bolt instead of movement for this fight.
-* Can use Earth Elemental
 
 One phase fight. NPCs give buffs, healers will be assigned specific buffs to specific people.
 
@@ -125,8 +122,6 @@ If you want to use a macro instead of dragging the spell to your bars you can us
 ## Warmaster Blackhorn 
 [Video Link](https://www.youtube.com/watch?v=UYAV2ec-Clo)
 
-* Use FE on Phase 2, No Earth Ele this fight!
-* No CL? Not enough adds at once.
 * Watch for purple swirl!!!!
 
 Avoid the fire which are spawned as the fight starts and continually after that.. 
@@ -146,28 +141,7 @@ As DPS you should be on either `Square`, `Triangle` or the big soak. You rotate 
 Don't stand too close to the dragon to avoid getting silenced and burn the dragon before killing Blackhorn. Stack up and move left or right as needed to avoid the shockwave.
 
 ## Spine of Deathwing 
-* First kill all tentacles, one will respawn and should not be damaged except to stop the hooks.
-* Then target Hideous Amalgamation (stop at 15%ish where the off tank will then gather the dead bloods before we blow it up next to the plate, exposing the tendon).
-* When people get hooked you must change to the target and damage it till you hit the threshold but not more. 
-* Only damage that matters is on the Tendon.
-
-Given that only Tendon damage matters and there is a ~20 second window you should save all cds for these burst windows you want a trinket like [bottled wishes](https://www.wowhead.com/cata/item=78005/bottled-wishes) or [Rune of Zeth](https://www.wowhead.com/cata/item=68998/rune-of-zeth) to give you the best bursting window for each time the tendon is exposed. 
-
-### Helpful Targeting Macros
-
-Because there is lots of target switching having these macros could be useful:
-
-```
-/tar Hideous Amalgamation
-```
-
-```
-/tar Corruption
-```
-
-```
-/tar Burning Tendon
-```
+Haven't found much on this fight yet but seems low mechanics for DPS.
 
 [Link to tank video](https://youtu.be/yOmOtVWABQw?si=2nKhFt1DcSBkBmjV)
 Adds fight. Kill the adds as called out and don't fall off by making sure you are grasped when necessary.
