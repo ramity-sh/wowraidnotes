@@ -8,9 +8,9 @@ To fix the "green fog" issue which sometimes happens when you enter the raid fir
 ## Morchok / Kochrom
 [Link to video](https://www.youtube.com/watch?v=FjxXU-Jndas)
 
-* No CL Glyph, be liberal with the CLs
+* No CL Glyph, be liberal with the CLs but switch to CL Glyph after this fight.
 * Can use Earth Elemental
-* Hero most likely at 20% as he hits hard.
+* Hero at 20% as he hits hard.
 
 ### Phase 1
 * Two boses with equal mechanics in this fight.
@@ -47,11 +47,12 @@ To fix the "green fog" issue which sometimes happens when you enter the raid fir
 
 ### Boss info
 * Can use Earth Elemental
+* Keep doing your standard rotation as you move through the adds.
+* Use Movement while casting cd.
 
 Has a main phase and a second phase.
 
-*Disrupting Shaows* - A dispellable debuff which does aoe damage when dispelled. Need to run out if you are 
-going to dispell it. (We heal through it.)
+*Disrupting Shaows* - A dispellable debuff which does aoe damage when dispelled. Need to run out if you are going to dispell it. (We heal through it.)
 
 *Void of the Unmaking* - Orb that does damage to those arround it. This ball is bounced between players until it hits the boss which moves him to the second phase. Looks like the mages handle bouncing the ball on 25 man.
 
@@ -74,7 +75,7 @@ assignment sheet to know your place. Though the adds have a priority the key is 
 [Link to video](https://www.youtube.com/watch?v=JnK2DrU8gQg)
 
 * Can use Earth Elemental
-* Where do I stand for ice phase?
+* For Ice Phase we range move arround on the outside killing the pylons. 
 
 ### Boss Info
 
@@ -126,7 +127,8 @@ If you want to use a macro instead of dragging the spell to your bars you can us
 [Video Link](https://www.youtube.com/watch?v=UYAV2ec-Clo)
 
 * Use FE on Phase 2, No Earth Ele this fight!
-* No CL? Not enough adds at once.
+* Do have walk with lb on this fight.
+* No CL. Not enough adds at once.
 * Watch for purple swirl!!!!
 
 Avoid the fire which are spawned as the fight starts and continually after that.. 
@@ -173,5 +175,6 @@ Because there is lots of target switching having these macros could be useful:
 Adds fight. Kill the adds as called out and don't fall off by making sure you are grasped when necessary.
 
 ## Madness of Deathwing 
+* Pre-pull set here but we don't drop FE until the final Corrupter.  
+* There is an extra button on this fight as well on a 30 second cd. Use the same macro above to activate it.
 
-There is an extra button on this fight as well on a 30 second cd. Use the same macro above to activate it.
